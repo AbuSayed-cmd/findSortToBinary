@@ -1,5 +1,5 @@
 # findSortToBinary
-The goal of these task is-
+The goal of this task is-
 - First we will take an array input from user.
 - Than we will check the array is in sorted order or not!
 - if it is in sort order, we will do a bineary search to find out a key element.
